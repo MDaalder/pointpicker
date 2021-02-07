@@ -4,7 +4,7 @@
 
 
  Inputs: 
-  - medical image file (nifti, dicom, aim)
+  - medical image file (nifti, dicom, aim) \n
  Outputs: 
   - picked points plain text file in a specified directory
  
