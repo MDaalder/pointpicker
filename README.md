@@ -3,7 +3,7 @@
  Uses VTK toolkit and marching cubes algorithm to render the surface. Optimized for bone.
 
  
- Inputs: medical image file (nifti, dicome, aim)
+ Inputs: medical image file (nifti, dicom, aim)
  Outputs: picked points plain text file in a specified directory
  
  Main code: PointPicker_implement.py
